@@ -1,0 +1,17 @@
+useful links:
+- Applications
+	dotPeek https://www.jetbrains.com/decompiler/
+	Hex-Editor https://mh-nexus.de/en/downloads.php?product=HxD20
+- каналы
+	Sergey Nemchinskiy. https://www.youtube.com/channel/UCVbz7l0COUdLupcY4YtYH0w
+	јй“иЅорода https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q
+- UML
+	https://habr.com/ru/post/150041/
+	Sergey Nemchinskiy. ќсновы архитектуры Java приложени€. UML
+		https://www.youtube.com/watch?v=NR73Gkm3iXc&feature=youtu.be
+		https://www.youtube.com/watch?v=xOx-si8s3K8&feature=youtu.be
+		https://www.youtube.com/watch?v=Usv6zV3w4uY&feature=youtu.be
+		https://www.youtube.com/watch?v=nE2T2ZIaYvs&feature=youtu.be
+
+- Agile
+	https://www.youtube.com/watch?v=sGvLjXSyxUM	

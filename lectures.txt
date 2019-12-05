@@ -1,1 +1,48 @@
 Lectures:
+Module 01. Basic principles of C#, CLR
+Module 02. Object oriented fundamentals
+Module 03. Exception handling
+Module 04. Advanced programming (Delegates, events, lambdas. Generics. Collections)
+Module 05. Data access
+Module 06. Assembly management and application debug
+6.1 Manage assemblies
+6.2 Reflection. Implement diagnostics in an application. Manage the object life cycle
+6.3 Unit Testing
+
+Module 07. Multithreading and asynchronous processing
+7.1 Multithreading
+7.2 Asynchronous processing
+Test 7. Multithreading and asynchronous processing
+Test 7. Multi-threading and asynchronous processing (Microsoft)
+
+Module 08. Unsafe code and pointers. .Net Framework security
+8.1 Unsafe code
+8.2 The basic concepts of security
+8.3 Cryptography methods overview
+Test 8. Unsafe code and pointers. .Net Framework security
+
+Module 09. Windows Forms, Windows Presentation Foundation and XAML
+9.1 Multilayered architecture in .NET. Windows Forms
+9.2 Introduction to Windows Presentation Foundation (WPF). XAML language overview
+9.3 WPF architecture. Application development
+Test 9. Windows Forms, Windows Presentation Foundation and XAML
+
+Module 10. ASP.NET Web Forms, MVC
+10.1 ASP.NET web framework for building web sites, apps and services
+10.2 ASP.NET MVC architecture
+10.3 ASP.NET MVC: routing, controllers and actions, models
+10.4 ASP.NET MVC: view and binding
+10.5 Ajax introduction
+10.6 ASP.NET MVC, Web API and REST architecture
+Test 10. ASP.NET Web Forms, MVC
+
+Module 11. Windows Communication Foundation (WCF)
+11.1 Service - oriented architecture (SOA). Windows Communication Foundation (WCF) conceptual overview
+11.2 Basic WCF programming. Designing and implementing services
+11.3 Basic WCF programming. Configuring services. Hosting services. Building clients
+Test 11. Windows Communication Foundation (WCF)
+
+Module 12. Design patterns
+12.1 The project life cycle. Design patterns
+12.2 Architectural patterns and styles
+Test 12. Design patterns
