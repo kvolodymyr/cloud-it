@@ -15,3 +15,6 @@ useful links:
 
 - Agile
 	https://www.youtube.com/watch?v=sGvLjXSyxUM	
+
+- Git
+	https://git-scm.com/book/en/v2
